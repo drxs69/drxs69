@@ -2,7 +2,7 @@
 
 ### 🎓 AI & Data Engineering Student | Aspiring Software Engineer
 
-I'm a Diploma in AI & Data Engineering student in Singapore with a strong interest in **Software Engineering, Artificial Intelligence, Machine Learning, and Systems Development**.
+I'm an AI & Data Engineering student in Singapore with a strong interest in **Software Engineering, Artificial Intelligence, Machine Learning, and Systems Development**.
 
 I enjoy building practical applications, exploring new technologies, and solving real-world problems through hands-on projects.
 
