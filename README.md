@@ -1,41 +1,130 @@
-# Hi, I'm drxs69 👋
+# Hey there! 👋 I'm drxs69
 
-🎓 **Aspiring Software Engineer**
+### 🎓 AI & Data Engineering Student | Aspiring Software Engineer
 
-I'm a AI & Data Engineering student with a strong interest in software engineering, backend development, automation, and system integration.
+I'm a Diploma in AI & Data Engineering student in Singapore with a strong interest in **Software Engineering, Artificial Intelligence, Machine Learning, and Systems Development**.
 
-I've gained hands-on experience developing applications that integrate software, machine learning, computer vision, and robotics.
+I enjoy building practical applications, exploring new technologies, and solving real-world problems through hands-on projects.
 
-### 🛠️ Technical Skills
+My goal is to pursue further studies in computing while continuing to strengthen my technical knowledge and software development skills.
 
-- **Languages:** Python, SQL, Lua/Luau
-- **Backend Development:** Flask, REST APIs, Microservices
-- **Tools & Platforms:** Git, GitHub, Docker, Linux, ROS2
-- **AI & Data:** Machine Learning, Computer Vision, Scikit-learn
-- **Systems Integration:** TCP/IP, Modbus TCP
+---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**ElderGuard Analytics**
-- Developed a machine learning pipeline for activity-level prediction using sensor data.
-- Implemented data preprocessing, model training, and evaluation workflows.
+### 🔍 1. AI-Powered Defect Detection System
 
-**AI Defect Detection System**
-- Worked on a microservices-based computer vision application.
-- Integrated components for inference, training, web interaction, and storage.
+**Final Year Project | Python · TensorFlow · Docker · Kubernetes · Microservices**
 
-### 📚 Currently Exploring
+Collaborated on the development of a computer vision-based system that uses machine learning to classify products as `GOOD` or `BAD`.
 
-- Software Engineering best practices
-- Backend system architecture
-- Cloud and DevOps technologies
-- Data Structures and Algorithms
+The application follows a four-service microservices architecture consisting of Web/API, Inference, Storage, and Trainer.
 
-### 🎯 My Goal
+**My Contributions:**
+- Contributed to the development and integration of the Web/API, Inference, and Storage services.
+- Worked on communication and data flow between microservices.
+- Troubleshot application functionality and service integration issues.
+- Participated in system implementation, testing, and debugging.
 
-To pursue a career in software engineering and continue developing reliable, scalable, and practical software solutions.
+**Technical Highlights:**
+- Image classification using TensorFlow
+- REST API communication between microservices
+- Containerisation and orchestration using Docker Compose and Kubernetes
+- Deployment and horizontal scaling using Minikube
 
-<!---
-drxs69/drxs69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**What I Learned:**
+
+Strengthened my understanding of microservices architecture, containerisation, machine learning integration, and collaborative software development.
+
+🔗 **[View GitHub Repository](https://github.com/JavierTanHL/EGT307_Project)**
+
+---
+
+### 📊 2. ElderGuard Analytics
+
+**Machine Learning Project | Python · Scikit-learn · Pandas · SQLite · Docker**
+
+Developed a machine learning pipeline to classify activity levels using environmental sensor data.
+
+The project explores different classification algorithms and evaluates their performance through data preprocessing, model training, and testing.
+
+**My Contributions:**
+- Implemented data cleaning, preprocessing, and feature engineering techniques.
+- Developed and evaluated machine learning classification models.
+- Compared model performance using evaluation metrics.
+- Integrated the machine learning workflow with SQLite and Docker.
+
+**Technical Highlights:**
+- Classification using Random Forest, Gradient Boosting, and Logistic Regression
+- Data preprocessing and feature engineering using Pandas and Scikit-learn
+- Model evaluation using accuracy, precision, recall, and F1-score
+- Containerised execution using Docker
+
+**What I Learned:**
+
+Gained experience in developing end-to-end machine learning pipelines, evaluating classification models, handling imbalanced datasets, and understanding the impact of data quality on model performance.
+
+🔗 **[View GitHub Repository](https://github.com/drxs69/EGT309-Project)**
+
+---
+
+### 🚂 3. Train Survival
+
+**Independent Game Development Project | Roblox Studio · Luau**
+
+Developing a multiplayer survival game where players must defend and maintain a train while responding to randomly generated events throughout their journey.
+
+The game incorporates enemy AI, event-driven mechanics, train management systems, and interactive gameplay elements.
+
+**My Contributions:**
+- Designed and implemented the game's core mechanics and progression systems.
+- Developed a random event management system for dynamic gameplay.
+- Implemented enemy AI, combat interactions, and train damage mechanics.
+- Built train repair, station progression, and interactive interface systems.
+
+**Technical Highlights:**
+- Event-driven programming and modular game architecture
+- Enemy AI with movement and attack behaviour
+- Server-side game state management and multiplayer logic
+- Dynamic random events, including bandit attacks and train fires
+
+**What I Learned:**
+
+Strengthened my skills in event-driven programming, modular software design, client-server architecture, and debugging complex gameplay systems.
+
+*Repository link coming soon.*
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:** Python · SQL · Luau · Bash
+
+**AI & Data Science:** TensorFlow · Scikit-learn · Pandas · NumPy · OpenCV
+
+**Software Development:** Git · GitHub · Flask · REST APIs · Microservices
+
+**Infrastructure & Tools:** Linux · Docker · Kubernetes · SQLite · Roblox Studio
+
+---
+
+## 📜 Certifications
+
+- **Linux Foundation Certified IT Associate (LFCA)** — Linux Foundation
+
+---
+
+## 🌱 Currently Learning
+
+- Linux system administration and infrastructure
+- Software architecture and backend development
+- Artificial intelligence and machine learning applications
+- Cloud-native technologies and container orchestration
+
+---
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories to learn more about my projects, technical experience, and development journey.
+
+**GitHub:** [github.com/drxs69](https://github.com/drxs69)
