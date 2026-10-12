@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drxs69
-- 👀 I’m interested in coding and music!
+- 👀 I’m interested in coding and ML!
 - 🌱 I’m currently learning python
 
 
